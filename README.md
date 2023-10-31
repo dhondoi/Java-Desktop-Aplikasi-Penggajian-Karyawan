@@ -22,7 +22,6 @@
   <h3 align="center">Aplikasi Penggajian Karyawan</h3>
 
   <p align="center">
-    
     <!--
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
@@ -111,6 +110,7 @@ Untuk rancangan database-nya adalah sebagai berikut.
 ### Laporan Gaji Karyawan
 
 ![Report Menu][report-menu]
+![Report Menu][report-menu-2]
 
 ### Ganti Password User Aplikasi
 
@@ -124,7 +124,7 @@ Untuk membuat Aplikasi ini ada beberapa teknologi yang dibutuhkan.
 
 * [![Netbeans][netbeans]][netbeans-url]
 * [![Java][java]][java-url]
-* [![XAMPP][xampp]][xampp-url]
+* **[XAMPP][xampp-url]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -287,11 +287,11 @@ Use this space to list resources you find helpful and would like to give credit 
 [deduction-employee-menu]: images/deduction-employee-menu.png
 [absent-menu]: images/absent-menu.png
 [report-menu]: images/report-menu.png
+[report-menu-2]: images/report-menu-2.png
 [change-password-menu]: images/change-password-menu.png
 
 [netbeans]: https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white
 [netbeans-url]: https://netbeans.apache.org/
 [java]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
 [java-url]: https://openjdk.org/
-[xampp]: https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white
 [xampp-url]: https://www.apachefriends.org/
