@@ -1,14 +1,5 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -17,13 +8,7 @@
 *** See the bottom of this document for the declaration of the reference variables
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
-
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 -->
 
 
@@ -66,7 +51,6 @@
   <!--
   <ol>
     <li>
-      
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -87,8 +71,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-<!-- ![Product Name Screen Shot][product-screenshot] -->
 
 Tujuan utama dari aplikasi ini adalah membuat laporan gaji tiap karyawan. Sebelum Laporan gaji karyawan dihasilkan, diperlukan beberapa proses bisnis.
 
@@ -125,6 +107,10 @@ Untuk rancangan database-nya adalah sebagai berikut.
 ### Manajemen Data Absen Setiap Karyawan Karyawan
 
 ![Absent Menu][absent-menu]
+
+### Laporan Gaji Karyawan
+
+![Report Menu][report-menu]
 
 ### Ganti Password User Aplikasi
 
@@ -286,6 +272,9 @@ Use this space to list resources you find helpful and would like to give credit 
 -->
 
 
+<!-- LINK BADGE & IMAGE-->
+<!-- https://github.com/Ileriayo/markdown-badges -->
+
 [product-screenshot]: images/splash_screen.jpg
 
 [workflow-aplikasi]: images/workflow-aplikasi.jpg
@@ -297,11 +286,12 @@ Use this space to list resources you find helpful and would like to give credit 
 [deduction-menu]: images/deduction-menu.png
 [deduction-employee-menu]: images/deduction-employee-menu.png
 [absent-menu]: images/absent-menu.png
+[report-menu]: images/report-menu.png
 [change-password-menu]: images/change-password-menu.png
 
-[netbeans]: https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white
-[netbeans-url]: https://developer.android.com/studio
+[netbeans]: https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white
+[netbeans-url]: https://netbeans.apache.org/
 [java]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
 [java-url]: https://openjdk.org/
 [xampp]: https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white
-[xampp-url]: https://www.sqlite.org/index.html
+[xampp-url]: https://www.apachefriends.org/
